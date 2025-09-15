@@ -143,3 +143,8 @@ body{
     text-shadow: 2px 2px 5px black;
     transform: scale(1.1);
 }
+
+.certificate{
+    text-align: center;
+    margin-top: 40px;
+}
